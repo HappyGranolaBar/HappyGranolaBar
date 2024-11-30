@@ -7,14 +7,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/My_Website-blue?style=for-the-badge">
   </a>
 </div>
 
-<p align="center">
+<div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=HappyGranolaBar">  
-</p>
-
+</div>
 
 ## About me
 

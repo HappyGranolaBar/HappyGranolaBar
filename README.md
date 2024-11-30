@@ -1,7 +1,9 @@
 <div id="badges">
-<p align="center"> 
- <img alt="Test" src="Image/Light_Trees.jpg">
-</p>
+  <a href="https://www.w3schools.com/html/default.asp">
+    <p align="center">
+      <img alt="Test" src="Image/Light_Trees.jpg">
+    </p>
+  </a>
 </div>
 
 ## About me

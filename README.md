@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="Image/Light_Trees.jpg">
-  
+  <picture>
+      <img src="Image/Light_Trees.jpg">
+  </picture>  
 </div>
 
 <div id="badges">

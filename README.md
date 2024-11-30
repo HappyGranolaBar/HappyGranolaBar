@@ -6,6 +6,11 @@
   </a>
 </div>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HappyGranolaBar">  
+</p>
+
+
 ## About me
 
 This is really just a filler to get the hang of how github works. I'll probably comback later and change this out, or maybe I won't... who really knows.

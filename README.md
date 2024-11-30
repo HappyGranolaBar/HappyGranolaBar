@@ -1,7 +1,8 @@
-
+<div id="badges">
 <p align="center"> 
  <img alt="Test" src="Image/Light_Trees.jpg">
 </p>
+</div>
 
 ## About me
 
@@ -11,10 +12,10 @@ This is really just a filler to get the hang of how github works. I'll probably 
 <summary> Drop down example </summary>
 
 | Names | Links |
-|-----:|-----------|
+|-----:|---------------|
 |     1| *insert link* |
-|     2| *insert link*    |
-|     3| *insert link*       |
+|     2| *insert link* |
+|     3| *insert link* |
 
 </details>
 

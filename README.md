@@ -1,14 +1,13 @@
 <div id="header" align="center">
-  <picture>
-      <img src="Image/Light_Trees.jpg">
-  </picture>  
+    <img src="Image/Light_Trees.jpg">
 </div>
 
-<div id="badges">
-  <a href="https://www.w3schools.com/html/default.asp">
-    <p align="center">
-      <img alt="Test" src="Image/Light_Trees.jpg">
-    </p>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
 

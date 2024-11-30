@@ -1,7 +1,6 @@
-## Hi there 👋
-
+# About me
+## This is really just a filler to get the hang of how github works. I'll probably comback later and change this out, or maybe I won't... who really knows.
 <!--
-**HappyGranolaBar/HappyGranolaBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

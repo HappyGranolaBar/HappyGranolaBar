@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="Image/Light_Trees.jpg">
+  
+</div>
+
 <div id="badges">
   <a href="https://www.w3schools.com/html/default.asp">
     <p align="center">

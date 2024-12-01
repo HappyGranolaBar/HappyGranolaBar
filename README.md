@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/giovanni-granucci/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="your-youtube-URL">
+  <a href="happygranolabar.github.io">
     <img src="https://img.shields.io/badge/My_Website-blue?style=for-the-badge">
   </a>
 </div>
